@@ -1,0 +1,177 @@
+{
+ "libgcc1": [
+  "gcc-4.6-base", 
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "debconf": [
+  "perl-base"
+ ], 
+ "python-configobj": [
+  "python", 
+  "python2.7"
+ ], 
+ "python-support": [
+  "dpkg", 
+  "python", 
+  "python-minimal"
+ ], 
+ "tar": [
+  "libc6"
+ ], 
+ "libssl1.0.0": [
+  "debconf", 
+  "debconf-2.0", 
+  "libc6", 
+  "multiarch-support", 
+  "zlib1g"
+ ], 
+ "readline-common": [
+  "dpkg", 
+  "install-info"
+ ], 
+ "libreadline6": [
+  "libc6", 
+  "libtinfo5", 
+  "multiarch-support", 
+  "readline-common"
+ ], 
+ "xz-utils": [
+  "libc6", 
+  "liblzma5"
+ ], 
+ "libc-bin": [], 
+ "debconf-2.0": [], 
+ "libncursesw5": [
+  "libc6", 
+  "libtinfo5", 
+  "multiarch-support"
+ ], 
+ "libtinfo5": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "libselinux1": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "python-decorator": [
+  "python", 
+  "python2.7"
+ ], 
+ "python2.7-minimal": [
+  "libc6", 
+  "libgcc1", 
+  "libssl1.0.0", 
+  "python-minimal", 
+  "zlib1g"
+ ], 
+ "tzdata": [
+  "debconf", 
+  "debconf-2.0"
+ ], 
+ "coreutils": [
+  "dpkg", 
+  "install-info", 
+  "libacl1", 
+  "libattr1", 
+  "libc6", 
+  "libselinux1"
+ ], 
+ "libsqlite3-0": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "dpkg": [
+  "coreutils", 
+  "libbz2-1.0", 
+  "libc6", 
+  "libselinux1", 
+  "tar", 
+  "xz-utils", 
+  "zlib1g"
+ ], 
+ "liblzma5": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "gcc-4.6-base": [], 
+ "python": [
+  "python-minimal", 
+  "python2.7"
+ ], 
+ "install-info": [
+  "libc6"
+ ], 
+ "python2.7": [
+  "libbz2-1.0", 
+  "libc6", 
+  "libdb5.1", 
+  "libexpat1", 
+  "libgcc1", 
+  "libncursesw5", 
+  "libreadline6", 
+  "libsqlite3-0", 
+  "libtinfo5", 
+  "mime-support", 
+  "python2.7-minimal"
+ ], 
+ "multiarch-support": [
+  "libc6"
+ ], 
+ "libattr1": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "libacl1": [
+  "libattr1", 
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "python-simplegeneric": [
+  "python", 
+  "python-support"
+ ], 
+ "zlib1g": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "libc6": [
+  "libc-bin", 
+  "libgcc1", 
+  "tzdata"
+ ], 
+ "ipython": [
+  "python", 
+  "python-configobj", 
+  "python-decorator", 
+  "python-pexpect", 
+  "python-simplegeneric", 
+  "python2.7"
+ ], 
+ "python-pexpect": [
+  "python", 
+  "python2.7"
+ ], 
+ "mime-support": [], 
+ "libbz2-1.0": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "python-minimal": [
+  "dpkg", 
+  "python2.7-minimal"
+ ], 
+ "perl-base": [
+  "dpkg", 
+  "libc6"
+ ], 
+ "libdb5.1": [
+  "libc6", 
+  "multiarch-support"
+ ], 
+ "libexpat1": [
+  "libc6", 
+  "multiarch-support"
+ ]
+}
